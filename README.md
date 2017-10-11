@@ -5,9 +5,11 @@
 
 ![Alt text](./test_images/marked/solidWhiteRight_detected.png "Detected Lines") ![Alt text](./test_images/marked/solidYellowLeft_detected.png "Detected Lines")
 
+<img src="./test_images/marked/solidWhiteRight_detected.png" width="425"/> <img src="./test_images/marked/solidYellowLeft_detected.png" width="425"/> 
+
 ---
 
-## How it works
+## How it works./test_images/marked/solidYellowLeft_detected.png
 
 - Detect the lane lines.
 - Fit a curve to the points that make the line

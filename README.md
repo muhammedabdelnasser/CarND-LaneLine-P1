@@ -3,8 +3,6 @@
 
 ### This project is to detect and find the lane lines of the road. This project is using Hough transform, Canny edge detectionm and linear regression to identify and mark the lane lines  of the road.
 
-![Alt text](./test_images/marked/solidWhiteRight_detected.png "Detected Lines") ![Alt text](./test_images/marked/solidYellowLeft_detected.png "Detected Lines")
-
 <img src="./test_images/marked/solidWhiteRight_detected.png" width="425"/> <img src="./test_images/marked/solidYellowLeft_detected.png" width="425"/> 
 
 ---

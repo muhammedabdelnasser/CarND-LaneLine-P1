@@ -7,8 +7,7 @@
 
 ---
 
-## How it works./test_images/marked/solidYellowLeft_detected.png
-
+## How it works
 - Detect the lane lines.
 - Fit a curve to the points that make the line
 - Draw the red lines on top of the lane lines

@@ -3,6 +3,8 @@
 
 ### This project is to detect and find the lane lines of the road. This project is using Hough transform, Canny edge detectionm and linear regression to identify and mark the lane lines  of the road.
 
+![Alt text](./test_images/marked/solidWhiteRight_detected.png "Detected Lines") ![Alt text](./test_images/marked/solidYellowLeft_detected.png "Detected Lines")
+
 ---
 
 ## How it works
@@ -29,11 +31,6 @@ The steps of this project are the following:
 * Make stripped lines connected.
 * Draw the detected lines on the image or video frames.
 
-
-[//]: # (Image References)
-
-![Alt text](./test_images/marked/solidWhiteRight_detected.png "Detected Lines")
-![Alt text](./test_images/marked/solidYellowLeft_detected.png "Detected Lines")
 
 ---
 

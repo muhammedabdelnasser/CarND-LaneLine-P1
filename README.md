@@ -32,8 +32,8 @@ The steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./test_images/marked/solidWhiteRight_detected.png "Detected Lines"
-[image1]: ./test_images/marked/solidYellowLeft_detected.png "Detected Lines"
+![Alt text](./test_images/marked/solidWhiteRight_detected.png "Detected Lines")
+![Alt text](./test_images/marked/solidYellowLeft_detected.png "Detected Lines")
 
 ---
 
